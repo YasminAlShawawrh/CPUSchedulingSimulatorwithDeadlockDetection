@@ -107,7 +107,7 @@ Example:
 
 Example (from output):
 - Deadlock detected on `R[1]`
-- Process aborted and rescheduled later :contentReference[oaicite:1]{index=1}  
+- Process aborted and rescheduled later
 
 ---
 
