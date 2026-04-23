@@ -10,6 +10,10 @@ The system models:
 
 ---
 
+### Prepared by  
+- [Yasmin Al Shawawrh](https://github.com/YasminAlShawawrh)
+- [Raghad Jamhour](https://github.com/raghadjam)
+  
 ## Table of contents
 
 - [Overview](#overview)
