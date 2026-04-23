@@ -105,10 +105,6 @@ Example:
 - Release its resources
 - Reinsert process later with updated arrival time
 
-Example (from output):
-- Deadlock detected on `R[1]`
-- Process aborted and rescheduled later
-
 ---
 
 ## Key Functions
