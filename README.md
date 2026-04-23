@@ -60,7 +60,6 @@ Each process is defined in a text file:
 PID    Arrival Time    Priority    CPU/IO Sequence
 
 Example:
-0 0 1 CPU {R[1], 50, F[1]}
 1 5 1 CPU {20} IO{30} CPU{20, R[2], 30, F[2], 10}
 
 ### Meaning:
