@@ -1,4 +1,4 @@
-# CPU Scheduling Simulator with Deadlock Detection — Python
+# CPU Scheduling Simulator with Deadlock Detection
 
 A simulation of a CPU scheduling system using Priority Scheduling with Round Robin, combined with deadlock detection and recovery mechanisms.
 
